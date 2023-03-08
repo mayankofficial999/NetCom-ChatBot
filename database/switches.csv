@@ -1,0 +1,65 @@
+Machine Model,Machine Type,Country Name,Delivered Date,Delivered Site,Price,Software Version
+Ex A01,Smart Switch,United States,2021-01-05,New York,1000,2.5.1
+Ex A01,Smart Switch,Canada,2021-02-03,Toronto,1100,2.5.1
+Ex A01,Smart Switch,Mexico,2021-03-09,Mexico City,1200,2.5.1
+Ex A01,Smart Switch,Brazil,2021-04-12,Sao Paulo,1300,2.5.1
+Ex A01,Smart Switch,Argentina,2021-05-10,Buenos Aires,1400,2.5.1
+Ex A01,Smart Switch,Peru,2021-06-07,Lima,1500,2.5.1
+Ex A01,Smart Switch,Chile,2021-07-06,Santiago,1600,2.5.1
+Ex A01,Smart Switch,Colombia,2021-08-04,Bogota,1700,2.5.1
+Ex A01,Smart Switch,Ecuador,2021-09-01,Quito,1800,2.5.1
+Ex A01,Smart Switch,Venezuela,2021-10-05,Caracas,1900,2.5.1
+Ex A01,Smart Switch,Japan,2021-11-02,Tokyo,2000,2.5.1
+Ex A01,Smart Switch,China,2021-12-01,Shanghai,2100,2.5.1
+Ex A01,Smart Switch,South Korea,2022-01-04,Seoul,2200,2.5.1
+Ex A01,Smart Switch,Taiwan,2022-02-02,Taipei,2300,2.5.1
+Ex A01,Smart Switch,Hong Kong,2022-03-02,Hong Kong,2400,2.5.1
+Ex A01,Smart Switch,India,2022-04-05,New Delhi,2500,2.5.1
+Ex A01,Smart Switch,Pakistan,2022-05-03,Karachi,2600,2.5.1
+Ex A01,Smart Switch,Bangladesh,2022-06-01,Dhaka,2700,2.5.1
+Ex A01,Smart Switch,Indonesia,2022-07-06,Jakarta,2800,2.5.1
+Ex A01,Smart Switch,Australia,2022-08-04,Sydney,2900,2.5.1
+Ex A01,Smart Switch,New Zealand,2022-09-01,Auckland,3000,2.5.1
+Ex A01,Smart Switch,Germany,2022-10-05,Berlin,3100,2.5.1
+Ex A01,Smart Switch,France,2022-11-02,Paris,3200,2.5.1
+Ex A01,Smart Switch,Spain,2022-12-01,Madrid,3300,2.5.1
+Ex A01,Smart Switch,United Kingdom,2023-02-01,London,3400,2.5.1
+Ex A01,Smart Switch,Ireland,2023-03-01,Dublin,3500,2.5.1
+Ex A01,Smart Switch,Netherlands,2023-04-03,Amsterdam,3600,2.5.1
+Ex A01,Smart Switch,Belgium,2023-05-02,Brussels,3700,2.5.1
+Ex A01,Smart Switch,Switzerland,2023-06-06,Zurich,3800,2.5.1
+Ex A01,Smart Switch,Austria,2023-07-04,Vienna,3900,2.5.1
+Ex A01,Smart Switch,Denmark,2023-08-01,Copenhagen,4000,2.5.1
+Ex A01,Smart Switch,Sweden,2023-09-05,Stockholm,4100,2.5.1
+Ex A01,Smart Switch,Norway,2023-10-03,Oslo,4200,2.5.1
+Ex A01,Smart Switch,Finland,2023-11-01,Helsinki,4300,2.5.1
+Ex A01,Smart Switch,Russia,2023-12-05,Moscow,4400,2.5.1
+Ex A01,Smart Switch,Ukraine,2024-01-03,Kiev,4500,2.5.1
+Ex A01,Smart Switch,Turkey,2024-02-01,Istanbul,4600,2.5.1
+Ex A01,Smart Switch,Saudi Arabia,2024-03-05,Riyadh,4700,2.5.1
+Ex A01,Smart Switch,United Arab Emirates,2024-04-02,Dubai,4800,2.5.1
+Ex A01,Smart Switch,Qatar,2024-05-01,Doha,4900,2.5.1
+Ex A01,Smart Switch,Iran,2024-06-05,Tehran,5000,2.5.1
+Ex A01,Smart Switch,Israel,2024-07-03,Jerusalem,5100,2.5.1
+NX-1234,Router,United States,2022-01-01,New York,5000.00,Version 5.1.2
+MX-5678,Switch,Canada,2022-01-02,Montreal,3000.00,Version 2.3.1
+SX-9012,Firewall,Mexico,2022-01-03,Mexico City,8000.00,Version 8.2.0
+AX-3456,Router,United Kingdom,2022-01-04,London,6000.00,Version 3.5.1
+WX-7890,Switch,Germany,2022-01-05,Berlin,4000.00,Version 1.2.3
+GX-2345,Firewall,France,2022-01-06,Paris,7000.00,Version 7.0.2
+ZX-6789,Router,Spain,2022-01-07,Madrid,5500.00,Version 4.0.1
+VX-0123,Switch,Italy,2022-01-08,Rome,3500.00,Version 2.1.0
+KX-4567,Firewall,Sweden,2022-01-09,Stockholm,9000.00,Version 9.2.1
+TX-8901,Router,Switzerland,2022-01-10,Zurich,6500.00,Version 6.3.0
+DX-2345,Switch,Norway,2022-01-11,Oslo,4500.00,Version 2.0.0
+HX-6789,Firewall,Denmark,2022-01-12,Copenhagen,7500.00,Version 8.1.3
+BX-1234,Router,Finland,2022-01-13,Helsinki,5500.00,Version 4.2.1
+LX-5678,Switch,Ireland,2022-01-14,Dublin,3700.00,Version 1.1.1
+OX-9012,Firewall,Netherlands,2022-01-15,Amsterdam,8500.00,Version 7.2.2
+PX-3456,Router,Australia,2022-01-16,Sydney,7000.00,Version 5.0.0
+QX-7890,Switch,New Zealand,2022-01-17,Auckland,5000.00,Version 2.2.2
+MX-2345,Firewall,Japan,2022-01-18,Tokyo,9500.00,Version 10.0.0
+NX-6789,Router,China,2022-01-19,Shanghai,7500.00,Version 6.1.0
+LX-0123,Switch,South Korea,2022-01-20,Seoul,4700.00,Version 2.3.2
+VX-4567,Firewall,India,2022-01-21,New Delhi,10000.00,Version 11.1.1
+RX-8901,Router,Russia,2022-01-22,Moscow,8000.00,Version 7.3.0
